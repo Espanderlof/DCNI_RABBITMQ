@@ -1,0 +1,5 @@
+com\duoc\ms_rabbitmq\App.class
+com\duoc\ms_rabbitmq\repository\MessageRepository.class
+com\duoc\ms_rabbitmq\model\Message.class
+com\duoc\ms_rabbitmq\config\RabbitMQConfig.class
+com\duoc\ms_rabbitmq\service\RabbitMQConsumerService.class
