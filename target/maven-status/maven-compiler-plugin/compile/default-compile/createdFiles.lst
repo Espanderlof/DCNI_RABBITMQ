@@ -1,9 +1,0 @@
-com\duoc\ms_rabbitmq\App.class
-com\duoc\ms_rabbitmq\service\MessageServiceImpl.class
-com\duoc\ms_rabbitmq\config\RabbitMQConfig.class
-com\duoc\ms_rabbitmq\controller\MessageController.class
-com\duoc\ms_rabbitmq\repository\MessageRepository.class
-com\duoc\ms_rabbitmq\service\MessageService.class
-com\duoc\ms_rabbitmq\model\Message.class
-com\duoc\ms_rabbitmq\dto\MessageDTO.class
-com\duoc\ms_rabbitmq\service\RabbitMQConsumerService.class
